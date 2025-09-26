@@ -40,27 +40,27 @@ body {
   }
 }
 #r34 {
-  background-image: url(img/r34.jpg);
+  background-image: url(r34.jpg);
   background-size: cover;
   animation-delay: -1s;
 }
 #supra {
-  background-image: url(img/supra.jpg);
+  background-image: url(supra.jpg);
   background-size: cover;
   animation-delay: -2s;
 }
 #spyder {
-  background-image: url(img/spyder.jpg);
+  background-image: url(spyder.jpg);
   background-size: cover;
   animation-delay: -3s;
 }
 #mazda {
-  background-image: url(img/mazda.jpg);
+  background-image: url(mazda.jpg);
   background-size: cover;
   animation-delay: -4s;
 }
 #charger {
-  background-image: url(img/charger.jpg);
+  background-image: url(charger.jpg);
   background-size: cover;
   animation-delay: -5s;
 }
@@ -71,3 +71,4 @@ body {
   margin-top: 70px;
   background-color: white;
 }
+
